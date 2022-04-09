@@ -1,0 +1,10 @@
+C:\Users\Тимуратор\source\repos\mypaint\mypaint\bin\Release\mypaint.exe.config
+C:\Users\Тимуратор\source\repos\mypaint\mypaint\bin\Release\mypaint.exe
+C:\Users\Тимуратор\source\repos\mypaint\mypaint\bin\Release\mypaint.pdb
+C:\Users\Тимуратор\source\repos\mypaint\mypaint\obj\Release\mypaint.csproj.AssemblyReference.cache
+C:\Users\Тимуратор\source\repos\mypaint\mypaint\obj\Release\mypaint.Form1.resources
+C:\Users\Тимуратор\source\repos\mypaint\mypaint\obj\Release\mypaint.Properties.Resources.resources
+C:\Users\Тимуратор\source\repos\mypaint\mypaint\obj\Release\mypaint.csproj.GenerateResource.cache
+C:\Users\Тимуратор\source\repos\mypaint\mypaint\obj\Release\mypaint.csproj.CoreCompileInputs.cache
+C:\Users\Тимуратор\source\repos\mypaint\mypaint\obj\Release\mypaint.exe
+C:\Users\Тимуратор\source\repos\mypaint\mypaint\obj\Release\mypaint.pdb
